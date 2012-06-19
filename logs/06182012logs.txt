@@ -1,0 +1,16 @@
+Jose Bernard Lagumbay	06/18/2012 02:14 am	User Login	Login
+Jose Bernard Lagumbay	06/18/2012 06:38 am	User Login	Login
+Jose Bernard Lagumbay	06/18/2012 07:07 am	Add Admin User Group User Group	Module
+Jose Bernard Lagumbay	06/18/2012 07:08 am	Add Branch Manager User Group	Module
+Jose Bernard Lagumbay	06/18/2012 07:39 am	Update Admin User Groups User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:40 am	Update Admin User Group User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:40 am	Update Branch Manager User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:41 am	Update Admin User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:41 am	Update Admin User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:42 am	Update Admin User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:51 am	Delete Branch Manager User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:52 am	Delete Branch Manager User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:54 am	Delete Branch Manager User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:55 am	Add Admin User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:55 am	Add Branch Manager User Group	User Group
+Jose Bernard Lagumbay	06/18/2012 07:55 am	Add Sales Manager User Group	User Group
